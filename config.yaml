@@ -1,0 +1,4 @@
+AMQP_URI: 'pyamqp://guest:guest@localhost'
+
+api_key: 'key-9e3925925d8652ea483d1f99c470650f'
+sandbox: 'sandboxa335ce01177d450eafe21b96efc07255.mailgun.org'
